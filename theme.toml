@@ -1,0 +1,19 @@
+name = 'Scroll'
+license = 'MIT'
+licenselink = 'https://github.com/hwansul/hugo-scroll/LICENSE'
+description = 'My tiny micro blog theme❤'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/hwansul/hugo-scroll'
+
+# If you have a running demo of the theme
+demosite = 'https://hwansul.github.io'
+
+# Taxonomy terms
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+# If the theme has a single author
+[author]
+  name = 'Mindulle'
+  homepage = 'mindulle.netlify.app'
